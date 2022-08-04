@@ -157,6 +157,10 @@ export const farewellsChetan = [
     message: '',
   },
   {
+    name: 'Ruth O',
+    message: '',
+  },
+  {
     name: 'Tomasz W',
     message:
       'That was a big pleasure to meet you! I hope we will meet one day again! All the best!',
