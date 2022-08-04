@@ -146,7 +146,8 @@ export const farewellsChetan = [
   },
   {
     name: 'Jim C',
-    message: '',
+    message:
+      'Thanks for everything you brought to the Frontend chapter as QA lead. Wish you all the best on your next chapter riding the blockchain wave!',
   },
   {
     name: 'Nipuna G',
