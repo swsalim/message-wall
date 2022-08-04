@@ -151,7 +151,10 @@ export const farewellsChetan = [
   },
   {
     name: 'Nipuna G',
-    message: '',
+    message: `Thank you for all the great work you've done! <br>
+    We will miss you and all the automation magic. Wishing you all the best with your next adventure!<br><br>
+
+    And to quote one Ruth O. - "DEAR CHETAN, DON'T LEAVE... NOOOOO"`,
   },
   {
     name: 'Pam D',
@@ -159,7 +162,11 @@ export const farewellsChetan = [
   },
   {
     name: 'Ruth O',
-    message: '',
+    message: `Dear Chetan,<br><br>
+
+    You had been one, if not the best manager I ever had. You are a mentor and a friend. You will leave a big hole in the QA team. I am happy that you will get to grow even more to your new company but at the same time sad that you will leave us. (WHY..WHY..WHY...). Thank you for training us and always believe in us.
+    <br><br>
+    I know you'll be back (i'm gonna refer you and get the referral bonus)`,
   },
   {
     name: 'Tomasz W',
