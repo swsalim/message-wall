@@ -41,8 +41,11 @@ export default function Farewell() {
   return (
     <>
       <Wrapper>
-        <section className="mx-auto flex max-w-8xl flex-col px-4 py-8 sm:flex-row sm:gap-8 sm:px-6 lg:gap-16 lg:px-8">
-          <div className="grid grid-cols-4 gap-4">
+        <section className="mx-auto flex max-w-8xl flex-col px-4 py-8 sm:gap-8 sm:px-6 lg:gap-16 lg:px-8">
+          <div>
+            <h1 className="mb-8 text-center text-5xl font-extrabold sm:mb-4">⛈Farewel Chetan☔️</h1>
+          </div>
+          <div className="arid-cols-1 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
             {farewells.map((farewell, index) => {
               const { containerStyle, blobStyle } = getRandomStyles();
 
