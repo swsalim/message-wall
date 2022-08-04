@@ -1,4 +1,4 @@
-export const farewells = [
+export const farewellsChloe = [
   {
     name: 'Andre JL',
     message:
@@ -78,6 +78,92 @@ export const farewells = [
     name: 'Pam D',
     message:
       'CHLOE! 🌸<br />I honestly wished we had more time or getting a chance to be in some sort of team together.  Thanks so much for teaching and guiding me since I first stepped into the team. Thank you for being patient answering my questions in my clueless days till the end! I’ll miss our lunches and chit chats.<br />All the best to you, Chloe, and your next adventures! I’ll bug you once in a while, whenever and wherever you might be.',
+  },
+  {
+    name: 'Yuyu S',
+    message:
+      'This is not goodbye, just farewell for now! I am sorry to see you go, and hope that we will meet again. All the best for your future endeavours.Thank you for all you have done!',
+  },
+];
+
+export const farewellsChetan = [
+  {
+    name: 'Andre JL',
+    message:
+      "Chetan, it's been a pleasure working with you on growing the QA function out to where it is today. Thank you for all your hard work and contributions. You'll be missed - the team won't be the same without you! Please do stay in touch.<br>Best,",
+  },
+  {
+    name: 'Bhaumik B',
+    message: 'Good bye, Chetan. May the Force be with you.',
+  },
+  {
+    name: 'Cedric M',
+    message: `Thanks for bringing some order in our chaotic ways ʕ •ᴥ•ʔ
+      Best of luck in your next endeavours ༼ つ ◕_◕ ༽つ `,
+  },
+  {
+    name: 'Chengyu G',
+    message:
+      'Hi Chetan, So sad that you are leaving :( But thanks for providing all the guidance about testing. Also thanks for sharing alot about the difference type of testing at different stage of the project! I learnt alot from you! Hope you have fun here and hope you will enjoy your new job and be more challenged there!! :) ',
+  },
+  {
+    name: 'Daniel C',
+    message: 'Sorry to see you leave and best of luck in your new QA venture !!! ',
+  },
+  {
+    name: 'Doris C',
+    message: `Dear Chetan,
+      <br>
+      Thank you for your frontend QA leadership. From guiding and onboarding frontend QA colleagues to the various testing workshops, your contributions to frontend are much appreciated.
+      <br>
+      All the best,`,
+  },
+  {
+    name: 'Kelly R',
+    message:
+      'Chetan! So sad you are leaving our chapter :( Thank you for all your work and improvements to QA engineering for frontend. It was wonderful working with you and best of luck for your new gig!',
+  },
+  {
+    name: 'Minakshi T',
+    message: `Hey Chetan,<br>
+      Really feel sad to say Good Bye to you, But at same time i wish you Best of luck for your future, Thanks for all your support, groomed me, you are really truly Mentor of mine. I will be always thank full for your guidance in my career.<br>
+      Wish you All the best for your professional ambitious, you will surly missed.It was a great experience to work with a Lead like you...`,
+  },
+  {
+    name: 'Nick W',
+    message:
+      'Thanks for the input, leading the QA team and work close with us to build great stuff. Wish you all the best for your next journey and stay health for your family.',
+  },
+  {
+    name: 'Pradeep G',
+    message:
+      'Thank you for being an exceptional leader, mentor and friend. Your contribution to this team has been incredible and you will be sorely missed. Farewell, all the best for the future!!',
+  },
+  {
+    name: 'Subodh A',
+    message:
+      'Thank you for your valuable support and guidance, I learned a lot new things from you. Best of luck for your future.',
+  },
+  {
+    name: 'Jim C',
+    message: '',
+  },
+  {
+    name: 'Nipuna G',
+    message: '',
+  },
+  {
+    name: 'Pam D',
+    message: '',
+  },
+  {
+    name: 'Tomasz W',
+    message:
+      'That was a big pleasure to meet you! I hope we will meet one day again! All the best!',
+  },
+  {
+    name: 'Wlad K',
+    message: 'Hey Chetan. Wish you all the best on your new place and stay in touch! Good luck!',
   },
   {
     name: 'Yuyu S',
