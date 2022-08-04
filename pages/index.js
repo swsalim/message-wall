@@ -47,13 +47,25 @@ export default function Farewell() {
               const { containerStyle, blobStyle } = getRandomStyles();
 
               return (
-                <Card key={`${farewell.name}-${index}`} styling={containerStyle}>
-                  <Blob styling={blobStyle} />
-                  <p
-                    className="mb-2 mt-0"
-                    dangerouslySetInnerHTML={{ __html: farewell.message }}></p>
-                  <span className="block text-left font-medium">{farewell.name}</span>
-                </Card>
+                <>
+                  <Card key={`${farewell.name}-${index}`} styling={containerStyle}>
+                    <Blob styling={blobStyle} />
+                    <p
+                      className="mb-2 mt-0"
+                      dangerouslySetInnerHTML={{ __html: farewell.message }}></p>
+                    <span className="block text-left font-medium">{farewell.name}</span>
+                  </Card>
+                  {farewell.name.toLowerCase() === 'ruth o' && (
+                    <>
+                      <Card className="border-0 p-0">
+                        <img
+                          src="https://media0.giphy.com/media/1LaMmLZsZG0fIYPXbZ/giphy-downsized.gif?cid=6104955ervdun2wtr731imz12ivfm58tj4f8chjuweherhgr"
+                          alt="nooo"
+                        />
+                      </Card>
+                    </>
+                  )}
+                </>
               );
             })}
           </div>
