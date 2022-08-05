@@ -158,7 +158,8 @@ export const farewellsChetan = [
   },
   {
     name: 'Pam D',
-    message: '',
+    message: `Hi Chetan!<br>
+    Thanks for all your guidance and sharing about testing matters! It was great working with you. I hope you enjoy your new found adventure. See you around and see you soon! Maybe stumble in IKEA again. :DD `,
   },
   {
     name: 'Ruth O',
